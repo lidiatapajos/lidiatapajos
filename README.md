@@ -1,9 +1,7 @@
 # ✦ Welcome to my profile ✦
 
-🎮 Indie Game Developer
+💻 Estudante de Eng. Software E ADS
 
-💻 ADS Student
+🌙 Aprendendo Python, Ruby e Java
 
-🌙 Currently learning Flutter and Django
-
-✨ Creating horror games in Pixel Art
+🎮 De vez em quando, desenvolvo um jogo
