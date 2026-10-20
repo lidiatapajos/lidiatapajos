@@ -174,8 +174,6 @@ Projeto pessoal de jogo 2D de terror psicológico, com foco em narrativa, invest
 
 *“Learning, creating and evolving — one commit at a time.”*
 
-💜
-
 <img src="https://komarev.com/ghpvc/?username=lidiatapajos&color=9D7BE8&style=flat-square&label=Profile+Views" />
 
 </div>
